@@ -1,7 +1,8 @@
 # SPRINT 04 - ESR1
 
 Apresentação do projeto disponível no [Youtube]().
-Projeto no [Wokwi](ttps://wokwi.com/projects/382318763288964097).
+
+Projeto no [Wokwi](https://wokwi.com/projects/382318763288964097).
 
 ## Alunos
 
